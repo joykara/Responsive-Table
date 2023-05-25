@@ -26,7 +26,6 @@ table th, table td {
     border-bottom: none;
   }
   table th {
-    position: sticky;
     top: 0;
     background-color: #f2f2f2;
   }

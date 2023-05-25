@@ -10,6 +10,7 @@ fetch('generated[223].json')
             row.innerHTML = `<td>${data.name}</td>
                                 <td>${data.age}</td>
                                 <td>${data.gender}</td>
+                                <td>${data.company}</td>
                                 <td>${data.email}</td>
                                 <td>${data.phone}</td>
                                 <td>${data.address}</td>`;
